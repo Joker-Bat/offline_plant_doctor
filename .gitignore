@@ -1,0 +1,14 @@
+# Python virtual environments
+llm_converter_env
+*.env
+env/
+venv/
+
+# Python cache files
+__pycache__/
+*.pyc
+
+# OS-specific files
+.DS_Store
+
+/.credentials
